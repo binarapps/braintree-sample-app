@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-
+source 'https://rails-assets.org'
 
 gem 'rails', '4.1.5'
 gem 'pg'
@@ -12,3 +12,6 @@ gem 'sdoc', '~> 0.4.0',          group: :doc
 gem 'spring',        group: :development
 gem 'thin'
 gem 'haml'
+
+# assets
+gem 'rails-assets-bootstrap-sass'
