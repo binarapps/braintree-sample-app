@@ -13,5 +13,7 @@ gem 'spring',        group: :development
 gem 'thin'
 gem 'haml'
 
+gem 'braintree'
+
 # assets
 gem 'rails-assets-bootstrap-sass'
